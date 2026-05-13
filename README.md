@@ -2,7 +2,8 @@
 
 An AI-powered Next Best Action (NBA) and Next Best Offer (NBO) recommendation engine designed to optimize customer engagement, reduce churn, and hyper-personalize telecom services.
 
-![Dialog Axiata](www/src/assets/Dialog_Axiata_logo.png)
+<img width="1523" height="1290" alt="image" src="https://github.com/user-attachments/assets/9e27570b-4c38-4ddc-816a-8cb19c2fd9ab" />
+
 
 ## 📌 The Problem It Solves
 
